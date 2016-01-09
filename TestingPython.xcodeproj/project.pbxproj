@@ -6,10 +6,33 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		F042956C17944BFE001DAF44 /* test.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test.py; sourceTree = "<group>"; };
+		F042956D17944CF8001DAF44 /* bubblesort-whilefor.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = "bubblesort-whilefor.py"; sourceTree = "<group>"; };
+		F042957B179452DF001DAF44 /* bubblesort2.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = bubblesort2.py; sourceTree = "<group>"; };
+		F042957C1794934B001DAF44 /* bubblesort3.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = bubblesort3.py; sourceTree = "<group>"; };
+		F042957D1794D267001DAF44 /* bubblesort-forfor.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = "bubblesort-forfor.py"; sourceTree = "<group>"; };
+		F042957E1794DBBB001DAF44 /* bubblesort-whilewhile.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = "bubblesort-whilewhile.py"; sourceTree = "<group>"; };
+		F042957F17959C5F001DAF44 /* bubblesort-whilewhileORIG.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = "bubblesort-whilewhileORIG.py"; sourceTree = "<group>"; };
+		F04295821795E50C001DAF44 /* bubblesort-whilewhile2.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = "bubblesort-whilewhile2.py"; sourceTree = "<group>"; };
+		F042958317963F1A001DAF44 /* bubblesort-final.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = "bubblesort-final.py"; sourceTree = "<group>"; };
+		F0F4067F17BD74B20063BBCE /* randomMem.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = randomMem.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		F042956117944B43001DAF44 = {
 			isa = PBXGroup;
 			children = (
+				F0F4067F17BD74B20063BBCE /* randomMem.py */,
+				F042958317963F1A001DAF44 /* bubblesort-final.py */,
+				F04295821795E50C001DAF44 /* bubblesort-whilewhile2.py */,
+				F042957E1794DBBB001DAF44 /* bubblesort-whilewhile.py */,
+				F042957F17959C5F001DAF44 /* bubblesort-whilewhileORIG.py */,
+				F042957D1794D267001DAF44 /* bubblesort-forfor.py */,
+				F042957C1794934B001DAF44 /* bubblesort3.py */,
+				F042957B179452DF001DAF44 /* bubblesort2.py */,
+				F042956D17944CF8001DAF44 /* bubblesort-whilefor.py */,
+				F042956C17944BFE001DAF44 /* test.py */,
 			);
 			sourceTree = "<group>";
 		};
@@ -152,6 +175,7 @@
 				F042956B17944B43001DAF44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
